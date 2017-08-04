@@ -1,0 +1,4 @@
+﻿  07.cpp
+f:\1earncode\learncpp\chapter03\chapter03\07.cpp(6): warning C4101: 'dis': unreferenced local variable
+  chapter03.vcxproj -> F:\1earncode\learncpp\chapter03\Debug\chapter03.exe
+  chapter03.vcxproj -> F:\1earncode\learncpp\chapter03\Debug\chapter03.pdb (Full PDB)
